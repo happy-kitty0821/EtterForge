@@ -31,7 +31,7 @@ To run EtherForge, you need the following prerequisites:
 1. Clone the EtherForge repository:
 
 ```bash
-git clone https://github.com/happy-kitty0821/EtherForge.git
+git clone https://github.com/happy-kitty0821/EtterForge.git
 ```
 
 2. Install the required libraries:
