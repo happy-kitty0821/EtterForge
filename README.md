@@ -1,5 +1,3 @@
-Certainly! Here's an updated README.md file with more detailed explanations of the code you provided:
-
 ```markdown
 # EtherForge
 
