@@ -47,11 +47,11 @@ pip install rich
 2. Run the script:
 
 ```bash
-python EtherForge.py
+python EtterForge.py
 ```
     or
 ```bash
-python3 EtherForge.py
+python3 EtterForge.py
 ```
 
 3. Read and agree to the terms and conditions.
