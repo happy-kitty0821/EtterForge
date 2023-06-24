@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+## version 0.0.001 beta
 EtherForge is a Python script designed for educational and testing purposes to facilitate the changing of MAC addresses of network interfaces. It allows users to select a network interface, specify a new MAC address, and apply the changes. Please note that changing the MAC address of a network interface may have legal and ethical implications, and it is important to ensure proper authorization before doing so.
 
 ## Features
