@@ -1,18 +1,18 @@
 #zsh as a Default terminal
-If you're using Zsh as the default shell instead of Bash, you can follow these steps to add EtherForge to the PATH:
+If you're using Zsh as the default shell instead of Bash, you can follow these steps to add EtterForge to the PATH:
 
 1. Open a terminal.
 
-2. Clone the EtherForge repository into the home directory:
+2. Clone the EtterForge repository into the home directory:
 
    ```bash
-   git clone https://github.com/happy-kitty0821/EtherForge.git ~/EtherForge
+   git clone https://github.com/happy-kitty0821/EtterForge.git ~/EtterForge
    ```
 
-3. Grant executable permissions to the EtherForge script:
+3. Grant executable permissions to the EtterForge script:
 
    ```bash
-   chmod +x ~/EtherForge/EtterForge.py
+   chmod +x ~/EtterForge/EtterForge.py
    ```
 
 4. Check the location of the current directory. This will be needed later when adding to the PATH:
@@ -32,10 +32,10 @@ If you're using Zsh as the default shell instead of Bash, you can follow these s
 6. Scroll to the end of the file and add the following line:
 
    ```bash
-   export PATH="$PATH:/path/to/EtherForge"
+   export PATH="$PATH:/path/to/EtterForge"
    ```
 
-   Replace `/path/to/EtherForge` with the absolute path of the `EtherForge` directory you copied in step 4.
+   Replace `/path/to/EtterForge` with the absolute path of the `EtterForge` directory you copied in step 4.
 
 7. Save the changes and exit the text editor.
 
@@ -53,6 +53,6 @@ If you're using Zsh as the default shell instead of Bash, you can follow these s
     EtterForge.py
     ```
 
-    The EtherForge script should now be executed when typing `EtterForge.py` in the terminal.
+    The EtterForge script should now be executed when typing `EtterForge.py` in the terminal.
 
 Please note that the above instructions are specific to Zsh as the default shell. If you're using a different shell, the steps may vary.
