@@ -1,20 +1,20 @@
-# EtherForge
+# EtterForge
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## version 0.0.001 beta
-EtherForge is a Python script designed for educational and testing purposes to facilitate the changing of MAC addresses of network interfaces. It allows users to select a network interface, specify a new MAC address, and apply the changes. Please note that changing the MAC address of a network interface may have legal and ethical implications, and it is important to ensure proper authorization before doing so.
+EtterForge is a Python script designed for educational and testing purposes to facilitate the changing of MAC addresses of network interfaces. It allows users to select a network interface, specify a new MAC address, and apply the changes. Please note that changing the MAC address of a network interface may have legal and ethical implications, and it is important to ensure proper authorization before doing so.
 
 ## Features
 
-- Retrieve the latest version of EtherForge from a remote repository
+- Retrieve the latest version of EtterForge from a remote repository
 - Check for updates automatically
 - Backup the existing script before updating
 - Apply new MAC address to the selected network interface
 
 ## Prerequisites
 
-To run EtherForge, you need the following prerequisites:
+To run EtterForge, you need the following prerequisites:
 
 - Python 3.x: Make sure Python is installed on your system.
 - requests library: Install the requests library using the following command:
@@ -28,7 +28,7 @@ To run EtherForge, you need the following prerequisites:
 
 ## Installation
 
-1. Clone the EtherForge repository:
+1. Clone the EtterForge repository:
 
 ```bash
 git clone https://github.com/happy-kitty0821/EtterForge.git
@@ -42,7 +42,7 @@ pip install rich
 
 ## Usage
 
-1. Open a terminal and navigate to the EtherForge directory.
+1. Open a terminal and navigate to the EtterForge directory.
 
 2. Run the script:
 
@@ -64,7 +64,7 @@ python3 EtterForge.py
 
 ## Code Explanation
 
-- **updateCheck.py**: This module handles the code responsible for checking for updates. It retrieves the latest version of EtherForge from a remote repository using the GitHub API and compares it with the local version. If an update is available, it backs up the existing script, downloads the latest version, and replaces the existing script.
+- **updateCheck.py**: This module handles the code responsible for checking for updates. It retrieves the latest version of EtterForge from a remote repository using the GitHub API and compares it with the local version. If an update is available, it backs up the existing script, downloads the latest version, and replaces the existing script.
 
 - **EtterForge.py**: This is the main script that allows users to change the MAC address of a network interface. It prompts users to read and agree to the terms and conditions, displays the available network interfaces, prompts for the selection of an interface and a new MAC address, validates the input, and applies the changes using the `subprocess` module.
 
@@ -78,7 +78,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Acknowledgements
 
-The EtherForge script is built upon the work of the open-source community and various Python libraries. Special thanks to the contributors of the requests and Rich, OS, subprocess, time, re libraries.
+The EtterForge script is built upon the work of the open-source community and various Python libraries. Special thanks to the contributors of the requests and Rich, OS, subprocess, time, re libraries.
 
 ## Disclaimer
 
