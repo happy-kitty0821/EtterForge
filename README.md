@@ -46,12 +46,12 @@ pip install rich
 ```bash
 cd EtterForge
 ```
-1. Run the script:
+1. Run the script copy 1 of 2 command:
 
 ```bash
 python EtterForge.py
 ```
-    or
+
 ```bash
 python3 EtterForge.py
 ```
