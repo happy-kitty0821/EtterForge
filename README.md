@@ -34,7 +34,7 @@ To run EtterForge, you need the following prerequisites:
 git clone https://github.com/happy-kitty0821/EtterForge.git
 ```
 
-2. Install the required libraries:
+2. Install the required libraries if not installed:
 
 ```bash
 pip install rich
