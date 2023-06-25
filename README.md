@@ -43,8 +43,10 @@ pip install rich
 ## Usage
 
 1. Open a terminal and navigate to the EtterForge directory.
-
-2. Run the script:
+```bash
+cd EtterForge
+```
+1. Run the script:
 
 ```bash
 python EtterForge.py
